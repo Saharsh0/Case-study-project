@@ -1,0 +1,31 @@
+.item
+{
+    background-color: rgb(248, 218, 173);
+    padding: 20px;
+    border-radius: 20px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: goldenrod;
+}
+
+body
+{
+    background-color: ivory;
+}
+
+.heading
+{
+    font-size: 35px;
+}
+
+.winner
+{
+    background-color: rgb(242, 208, 156);
+    font-size: 40px;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: goldenrod;
+}
